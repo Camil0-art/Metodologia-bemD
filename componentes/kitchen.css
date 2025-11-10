@@ -1,0 +1,17 @@
+.kitchen {
+  background-color: rgb(235, 73, 73);
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+.kitchen-item {
+    color: rgb(4, 155, 255);
+  font-weight: bold;
+}
+
+.house__kitchen-item--new{
+    background-color: rgb(146, 101, 177) ;
+    color: rgb(250, 225, 2);
+    border-radius: 25px;
+}

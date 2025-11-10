@@ -1,0 +1,15 @@
+.livingroom{
+    margin: 20px;
+    background-color: rgb(214, 192, 241);
+    border: 1px solid black;
+}
+
+.livingroom-item{
+    color: rgb(236, 4, 4);
+    
+}
+
+.Livingroom__item--new{
+    background-color: rgb(161, 220, 247);
+    color: rgb(52, 3, 109);
+}

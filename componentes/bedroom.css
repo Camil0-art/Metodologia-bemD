@@ -1,0 +1,17 @@
+.bedroom {
+  background-color: rgb(79, 79, 128);
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+.bedroom-item{
+    background-color: rgb(186, 235, 174);
+    border-radius: 15px;
+    color: rgb(17, 109, 21);
+}
+
+.bedroom-item--big {
+  font-size: 20px;
+  background-color: rgb(255, 145, 0);
+}
